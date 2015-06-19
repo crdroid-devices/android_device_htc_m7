@@ -1,9 +1,7 @@
 [
   {
-    "remote": "crdroid-devices",
     "repository": "android_device_htc_m7-common",
     "target_path": "device/htc/m7-common",
-    "revision": "5.1.1"
   },
 {
     "remote": "CyanogenMod",

@@ -16,10 +16,10 @@
     "revision": "cm-12.1"
   },
   {
-    "remote": "Benowit",
+    "remote": "CyanogenMod",
     "repository": "android_kernel_htc_msm8960",
     "target_path": "kernel/htc/msm8960",
-    "revision": "5.1.1"
+    "revision": "cm-12.1"
   },
 {
     "remote": "CyanogenMod",

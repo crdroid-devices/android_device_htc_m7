@@ -24,6 +24,12 @@
     "revision": "cm-13.0"
   },
   {
+    "remote": "CyanogenMod",
+    "repository": "android_device_qcom_common",
+    "target_path": "device/qcom/common",
+    "revision": "cm-13.0"
+  },
+  {
     "remote": "tm",
     "repository": "proprietary_vendor_htc",
     "target_path": "vendor/htc",
